@@ -86,7 +86,7 @@ To set up MedFit locally for development, follow these steps:
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/medfit-app.git
+   git clone git@github.com:newbotic/MedFit.git
    cd medfit-app
 Install dependencies for the front-end:
 
