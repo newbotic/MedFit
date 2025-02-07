@@ -181,11 +181,11 @@ MedFit is licensed under the MIT License. See the LICENSE file for details.
 Contact
 For questions, feedback, or support, reach out to us:
 
-Email: support@medfit.com
+Email: support@medfit
 
-Website: www.medfit.com
+Website: www.medfit
 
-GitHub: github.com/yourusername/medfit-app
+GitHub: github.com/newbotic/medfit-app
 
 Thank you for choosing MedFit! We’re excited to help you on your journey to better health and wellness. 🚀
 
